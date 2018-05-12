@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39973'
     url: http://www.gutenberg.org/2009/agents/39973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39329#Illustrated-Catalogue-of-Locomotives--Baldwin-Locomotive-Works
 gutenberg_issued: '2012-04-01'
 gutenberg_type: Text
 identifiers:
